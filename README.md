@@ -58,6 +58,7 @@ tecnologia **RFID** para identificação e rastreamento de ativos.
 
 <p align="center">
   <img src="./assets/rfid-mobile.png" width="220"/>
+  <img src="./assets/rfid-mobile_1.png" width="220"/>
   <img src="./assets/rfid-dashboard.png" width="420"/>
 </p>
 
