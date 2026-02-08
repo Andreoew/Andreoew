@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou André de Souza</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Advogado+C%C3%ADvel;Node.js+%7C+React+%7C+Next.js;Criando+solu%C3%A7%C3%B5es+com+tecnologia" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Advogado+C%C3%ADvel;Node.js+%7C+React+%7C+Next.js;Solu%C3%A7%C3%B5es+reais+com+tecnologia" />
 </p>
 
 ---
@@ -10,9 +10,9 @@
 
 - 💻 **Desenvolvedor Full Stack**
 - ⚖️ **Advogado atuante na área Cível**
-- 🧠 Integro **Direito + Tecnologia** para criar soluções reais
-- 📦 Experiência com **SaaS, APIs, sistemas educacionais e automações**
-- 🎯 Foco em código limpo, performance e simplicidade
+- 🧠 Atuação na interseção entre **Direito e Tecnologia**
+- 📦 Experiência com **SaaS, APIs, automações e sistemas institucionais**
+- 🎯 Foco em **código limpo**, segurança e soluções práticas
 
 ---
 
@@ -20,7 +20,7 @@
 
 ### 🔹 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,python,fastapi,prisma,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,python,prisma,postgres" />
 </p>
 
 ### 🔹 Frontend
@@ -28,10 +28,40 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
 
+### 🔹 Mobile & Hardware
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,android" />
+</p>
+
 ### 🔹 Ferramentas
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
 </p>
+
+---
+
+## ⭐ Projetos em Destaque
+
+### 🏷️ Sistema de Controle de Inventário com RFID  
+**Node.js • Kotlin • RFID • PostgreSQL**
+
+Sistema desenvolvido para **controle patrimonial em escolas estaduais**, utilizando
+tecnologia **RFID** para identificação e rastreamento de ativos.
+
+**Principais funcionalidades:**
+- 📦 Inventário automatizado via RFID
+- 📱 Aplicativo Android em **Kotlin**
+- 🌐 API REST em **Node.js**
+- 🔐 Controle de acesso por perfil
+- 📊 Relatórios gerenciais e auditoria
+- 🏫 Uso em ambiente institucional real
+
+<p align="center">
+  <img src="./assets/rfid-mobile.png" width="220"/>
+  <img src="./assets/rfid-dashboard.png" width="420"/>
+</p>
+
+> 🔒 Projeto privado por conter dados institucionais sensíveis.
 
 ---
 
